@@ -1,10 +1,10 @@
 # Flowlog - Interactive Social Engagement Platform
 
 ### Table of Contents
-1. [📌 Project Overview](#-project-overview)
-2. [🌟 Key Features](#-key-features)
-3. [🎨 Design & Development](#-design--development)
-4. [📂 Project Access](#-project-access)
+- [📌 Project Overview](#-project-overview)
+- [🌟 Key Features](#-key-features)
+- [🎨 Design & Development](#-design--development)
+- [📂 Project Access](#-project-access)
 
 
 ### 📌 Project Overview
