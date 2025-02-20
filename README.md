@@ -24,7 +24,7 @@ FlowLog is currently in the design and development phase, with a focus on crafti
 
 
 ### 📂 Project Access
-🔗 Figma Prototype: https://www.figma.com/design/yP9xDtAWrV7Te17YSGLypE/Flowlog?node-id=0-1&t=aeRaZjSDGjWiS3aN-1 
+[🔗 Figma Prototype Link](https://www.figma.com/design/yP9xDtAWrV7Te17YSGLypE/Flowlog?node-id=0-1&t=aeRaZjSDGjWiS3aN-1)
 
 FlowLog is built to encourage dynamic and engaging interactions, creating a space where users can connect, share, and explore content effortlessly.
 
