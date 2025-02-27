@@ -24,8 +24,16 @@ FlowLog is currently in the design and development phase, with a focus on crafti
 
 
 ### 📂 Project Access
+
+The design for the Flowlog project is available on the Figma platform, which can be accessed directly via a web browser, without the need for downloading or additional software. Simply click on the link, and the project will open, allowing you to explore its structure and components.
+
 [🔗 Figma Prototype Link](https://www.figma.com/design/yP9xDtAWrV7Te17YSGLypE/Flowlog?node-id=0-1&t=aeRaZjSDGjWiS3aN-1)
 
-FlowLog is built to encourage dynamic and engaging interactions, creating a space where users can connect, share, and explore content effortlessly.
+Within the Figma file, you can navigate through three key pages:
 
+Component Library – A collection of user interface assets, including fonts, color palettes, logos, and reusable components used throughout the web application.
+Guest Prototype – Overview of the web application pages for guests.
+Admin Prototype – Overview of the web application pages for administrators.
+User Prototype – Overview of the web application pages for users.
+This structure provides a clear understanding of the design system and the functionality of the Flowlog web application.
 
