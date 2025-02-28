@@ -4,6 +4,7 @@ FlowLog is a web application designed to enhance user engagement by fostering me
 ## Table of Contents
 - [ Project Overview](#project-overview)
 - [ Key Features](#key-features)
+- [ Research & Methodology](#research--methodology)
 - [ Design & Development](#design--development)
 - [ Project Access](#project-access)
 
@@ -17,6 +18,17 @@ Unlike traditional social media platforms, FlowLog places a strong emphasis on c
 - Engagement & Discussions – users can comment on posts, engage in discussions, and interact with others through likes and replies.
 - User Connections – follow other users to stay updated with their latest posts and activities.
 - Tailored Content Discovery – intelligent content recommendations based on user preferences and interactions.
+
+## Research & Methodology
+A structured methodology was applied to develop the FlowLog platform, which included the following phases:
+
+- Analysis of target users and their needs
+- Analysis of existing platforms
+- Evaluation of functionality and design
+- Defining functional requirements
+- UI/UX design and prototyping in Figma
+- Prototype testing
+
 
 
 ## Design & Development
