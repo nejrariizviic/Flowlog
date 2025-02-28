@@ -12,11 +12,11 @@ FlowLog is a web application designed to enhance user engagement by fostering me
 Unlike traditional social media platforms, FlowLog places a strong emphasis on creating an engaging and personalized user experience that encourages users to actively participate in discussions and share content related to their interests. The platform is built to serve as a space where users can not only share their own thoughts, ideas, and multimedia content such as images, videos, and text updates but also connect with others who share similar passions and opinions. FlowLog integrates intelligent algorithms that recommend content and users based on individual preferences and interactions. Through these features, FlowLog aims to become the go-to platform for content sharing, discussion, and meaningful user connections in an online social environment.
 
 ## Key Features
-- Personalized User Profiles – Users can create and customize their profiles to reflect their interests and identity.
-- Content Sharing – Ability to post multimedia content, including images, videos, and text updates.
-- Engagement & Discussions – Users can comment on posts, engage in discussions, and interact with others through likes and replies.
-- User Connections – Follow other users to stay updated with their latest posts and activities.
-- Tailored Content Discovery – Intelligent content recommendations based on user preferences and interactions.
+- Personalized User Profiles – users can create and customize their profiles to reflect their interests and identity.
+- Content Sharing – ability to post multimedia content, including images, videos, and text updates.
+- Engagement & Discussions – users can comment on posts, engage in discussions, and interact with others through likes and replies.
+- User Connections – follow other users to stay updated with their latest posts and activities.
+- Tailored Content Discovery – intelligent content recommendations based on user preferences and interactions.
 
 
 ## Design & Development
@@ -31,9 +31,9 @@ The design for the Flowlog project is available on the Figma platform, which can
 
 Within the Figma file, you can navigate through three key pages:
 
-Component Library – A collection of user interface assets, including fonts, color palettes, logos, and reusable components used throughout the web application.
-Guest Prototype – Overview of the web application pages for guests.
-Admin Prototype – Overview of the web application pages for administrators.
-User Prototype – Overview of the web application pages for users.
+Component Library – a collection of user interface assets, including fonts, color palettes, logos, and reusable components used throughout the web application.
+Guest Prototype – overview of the web application pages for guests.
+Admin Prototype – overview of the web application pages for administrators.
+User Prototype – overview of the web application pages for users.
 This structure provides a clear understanding of the design system and the functionality of the Flowlog web application.
 
