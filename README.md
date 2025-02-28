@@ -43,9 +43,10 @@ The design for the Flowlog project is available on the Figma platform, which can
 
 Within the Figma file, you can navigate through three key pages:
 
-Component Library – a collection of user interface assets, including fonts, color palettes, logos, and reusable components used throughout the web application.
-Guest Prototype – overview of the web application pages for guests.
-Admin Prototype – overview of the web application pages for administrators.
-User Prototype – overview of the web application pages for users.
+- Component Library – a collection of user interface assets, including fonts, color palettes, logos, and reusable components used throughout the web application.
+- Guest Prototype – overview of the web application pages for guests.
+- Admin Prototype – overview of the web application pages for administrators.
+- User Prototype – overview of the web application pages for users.
+  
 This structure provides a clear understanding of the design system and the functionality of the Flowlog web application.
 
