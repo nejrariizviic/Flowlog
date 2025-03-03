@@ -1,6 +1,11 @@
 # Flowlog - Interactive Social Engagement Platform
 Flowlog is a web application designed to enhance user engagement by fostering meaningful interactions through comments and discussions on various posts. The platform aims to create an interactive and personalized experience for users, allowing them to share content, connect with others, and explore topics of interest.
 
+
+## Application Logo
+![Logo](https://raw.githubusercontent.com/nejrariizviic/Flowlog/refs/heads/main/Uploads/Logo.png)
+
+
 ## Table of Contents
 - [ Project Overview](#project-overview)
 - [ Key Features](#key-features)
