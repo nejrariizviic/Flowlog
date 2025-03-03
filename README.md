@@ -3,7 +3,9 @@ Flowlog is a web application designed to enhance user engagement by fostering me
 
 
 ## Application Logo
-![Logo](https://raw.githubusercontent.com/nejrariizviic/Flowlog/refs/heads/main/Uploads/Logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nejrariizviic/Flowlog/refs/heads/main/Uploads/Logo.png" alt="Logo">
+</p>
 
 
 ## Table of Contents
